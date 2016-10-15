@@ -12,7 +12,7 @@ render: function(){
                 <IndexLink to="/" activeClassName="active-link">Timer</IndexLink>
             </li>
             <li>
-                <Link to="/" activeClassName="active-link">Timer</Link>
+                <Link to="/coutdown" activeClassName="active-link">Coutdown</Link>
             </li>            
         </ul>
     </div>
